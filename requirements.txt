@@ -1,0 +1,13 @@
+torch
+torchvision
+pytorch-lightning
+timm
+h5py
+numpy
+pandas
+openslide-python
+pillow
+tqdm
+rich
+tensorboard
+# Note: TRIDENT and PathoBench usually require manual install via git

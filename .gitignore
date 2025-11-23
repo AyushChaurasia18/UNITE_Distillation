@@ -1,0 +1,18 @@
+# Data and Model Weights
+*.svs
+*.h5
+*.npy
+*.pth
+*.ckpt
+lightning_logs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Output Folders
+Processed_Patches/
+WSI_patch_features/
+Pooled_features/
+
+# OS files
+.DS_Store
+Thumbs.db
