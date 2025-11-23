@@ -32,22 +32,23 @@ UNITE-Distillation/
 
 🛠️ Installation & Setup
 
-Clone the repository:
+1. Clone the repository
 
-git clone [https://github.com/AyushChaurasia18/UNITE_Distillation.git](https://github.com/AyushChaurasia18/UNITE_Distillation.git)
+git clone https://github.com/AyushChaurasia18/UNITE_Distillation.git
 cd UNITE_Distillation
 
 
-Install dependencies:
+2. Install dependencies
 
 pip install -r requirements.txt
 
 
-Install External Frameworks:
+3. Install External Frameworks
+
 This project relies on TRIDENT for WSI processing and PathoBench for evaluation.
 
-pip install git+[https://github.com/mahmoodlab/TRIDENT.git](https://github.com/mahmoodlab/TRIDENT.git)
-pip install git+[https://github.com/mahmoodlab/Patho-Bench.git](https://github.com/mahmoodlab/Patho-Bench.git)
+pip install git+https://github.com/mahmoodlab/TRIDENT.git
+pip install git+https://github.com/mahmoodlab/Patho-Bench.git
 
 
 🏃‍♂️ Usage Pipeline
